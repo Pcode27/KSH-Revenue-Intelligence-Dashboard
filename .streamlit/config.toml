@@ -1,0 +1,12 @@
+[theme]
+# Light design system (white cards, dark ink). Pinned so the app renders
+# correctly regardless of the viewer's OS/browser colour-scheme.
+base = "light"
+primaryColor = "#0F6E56"
+backgroundColor = "#F5F6FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1A1A2E"
+font = "sans serif"
+
+[server]
+headless = true
